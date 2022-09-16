@@ -45,3 +45,8 @@ $1
 ```regex
 [$2, $1]
 ```
+
+
+```js
+newFeatures = geoJSON.features.map((feature) => ({...feature, properties: {timestamp: new Date(feature.properties.timestamp._seconds)}}))
+```
