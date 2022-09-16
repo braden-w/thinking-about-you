@@ -9,7 +9,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660033222, "_nanoseconds": 642999000 }
+          "_seconds": 1660033222,
+          "_nanoseconds": 642999000
         }
       }
     },
@@ -21,7 +22,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660033276, "_nanoseconds": 559000000 }
+          "_seconds": 1660033276,
+          "_nanoseconds": 559000000
         }
       }
     },
@@ -33,7 +35,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660056838, "_nanoseconds": 457999000 }
+          "_seconds": 1660056838,
+          "_nanoseconds": 457999000
         }
       }
     },
@@ -45,7 +48,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660056926, "_nanoseconds": 306999000 }
+          "_seconds": 1660056926,
+          "_nanoseconds": 306999000
         }
       }
     },
@@ -57,7 +61,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660065068, "_nanoseconds": 835999000 }
+          "_seconds": 1660065068,
+          "_nanoseconds": 835999000
         }
       }
     },
@@ -69,7 +74,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660069727, "_nanoseconds": 39999000 }
+          "_seconds": 1660069727,
+          "_nanoseconds": 39999000
         }
       }
     },
@@ -81,7 +87,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660071232, "_nanoseconds": 151000000 }
+          "_seconds": 1660071232,
+          "_nanoseconds": 151000000
         }
       }
     },
@@ -93,7 +100,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660071931, "_nanoseconds": 371999000 }
+          "_seconds": 1660071931,
+          "_nanoseconds": 371999000
         }
       }
     },
@@ -105,7 +113,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660072072, "_nanoseconds": 42999000 }
+          "_seconds": 1660072072,
+          "_nanoseconds": 42999000
         }
       }
     },
@@ -117,7 +126,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660072937, "_nanoseconds": 655999000 }
+          "_seconds": 1660072937,
+          "_nanoseconds": 655999000
         }
       }
     },
@@ -129,7 +139,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660072948, "_nanoseconds": 487999000 }
+          "_seconds": 1660072948,
+          "_nanoseconds": 487999000
         }
       }
     },
@@ -141,7 +152,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660074008, "_nanoseconds": 973999000 }
+          "_seconds": 1660074008,
+          "_nanoseconds": 973999000
         }
       }
     },
@@ -153,7 +165,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660130856, "_nanoseconds": 456000000 }
+          "_seconds": 1660130856,
+          "_nanoseconds": 456000000
         }
       }
     },
@@ -165,7 +178,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660130859, "_nanoseconds": 634999000 }
+          "_seconds": 1660130859,
+          "_nanoseconds": 634999000
         }
       }
     },
@@ -177,7 +191,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660141411, "_nanoseconds": 592000000 }
+          "_seconds": 1660141411,
+          "_nanoseconds": 592000000
         }
       }
     },
@@ -189,7 +204,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660146602, "_nanoseconds": 917000000 }
+          "_seconds": 1660146602,
+          "_nanoseconds": 917000000
         }
       }
     },
@@ -201,7 +217,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660223201, "_nanoseconds": 269000000 }
+          "_seconds": 1660223201,
+          "_nanoseconds": 269000000
         }
       }
     },
@@ -213,7 +230,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660223204, "_nanoseconds": 743999000 }
+          "_seconds": 1660223204,
+          "_nanoseconds": 743999000
         }
       }
     },
@@ -225,7 +243,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660235092, "_nanoseconds": 961999000 }
+          "_seconds": 1660235092,
+          "_nanoseconds": 961999000
         }
       }
     },
@@ -237,7 +256,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660235485, "_nanoseconds": 161000000 }
+          "_seconds": 1660235485,
+          "_nanoseconds": 161000000
         }
       }
     },
@@ -249,7 +269,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660236080, "_nanoseconds": 117000000 }
+          "_seconds": 1660236080,
+          "_nanoseconds": 117000000
         }
       }
     },
@@ -261,7 +282,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660244311, "_nanoseconds": 609999000 }
+          "_seconds": 1660244311,
+          "_nanoseconds": 609999000
         }
       }
     },
@@ -273,7 +295,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660291447, "_nanoseconds": 865999000 }
+          "_seconds": 1660291447,
+          "_nanoseconds": 865999000
         }
       }
     },
@@ -285,7 +308,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660293841, "_nanoseconds": 918999000 }
+          "_seconds": 1660293841,
+          "_nanoseconds": 918999000
         }
       }
     },
@@ -297,7 +321,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660305179, "_nanoseconds": 444999000 }
+          "_seconds": 1660305179,
+          "_nanoseconds": 444999000
         }
       }
     },
@@ -309,7 +334,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660377544, "_nanoseconds": 759000000 }
+          "_seconds": 1660377544,
+          "_nanoseconds": 759000000
         }
       }
     },
@@ -321,7 +347,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660594368, "_nanoseconds": 114000000 }
+          "_seconds": 1660594368,
+          "_nanoseconds": 114000000
         }
       }
     },
@@ -333,7 +360,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660594369, "_nanoseconds": 240000000 }
+          "_seconds": 1660594369,
+          "_nanoseconds": 240000000
         }
       }
     },
@@ -345,7 +373,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660622329, "_nanoseconds": 661999000 }
+          "_seconds": 1660622329,
+          "_nanoseconds": 661999000
         }
       }
     },
@@ -357,7 +386,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660622330, "_nanoseconds": 150000000 }
+          "_seconds": 1660622330,
+          "_nanoseconds": 150000000
         }
       }
     },
@@ -369,7 +399,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660671943, "_nanoseconds": 95999000 }
+          "_seconds": 1660671943,
+          "_nanoseconds": 95999000
         }
       }
     },
@@ -381,7 +412,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660671943, "_nanoseconds": 128000000 }
+          "_seconds": 1660671943,
+          "_nanoseconds": 128000000
         }
       }
     },
@@ -393,7 +425,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660671943, "_nanoseconds": 269999000 }
+          "_seconds": 1660671943,
+          "_nanoseconds": 269999000
         }
       }
     },
@@ -405,7 +438,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660671943, "_nanoseconds": 444000000 }
+          "_seconds": 1660671943,
+          "_nanoseconds": 444000000
         }
       }
     },
@@ -417,7 +451,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660676210, "_nanoseconds": 112999000 }
+          "_seconds": 1660676210,
+          "_nanoseconds": 112999000
         }
       }
     },
@@ -429,7 +464,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660785572, "_nanoseconds": 23000000 }
+          "_seconds": 1660785572,
+          "_nanoseconds": 23000000
         }
       }
     },
@@ -441,7 +477,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660785574, "_nanoseconds": 380000000 }
+          "_seconds": 1660785574,
+          "_nanoseconds": 380000000
         }
       }
     },
@@ -453,7 +490,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660831743, "_nanoseconds": 628000000 }
+          "_seconds": 1660831743,
+          "_nanoseconds": 628000000
         }
       }
     },
@@ -465,7 +503,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1660831743, "_nanoseconds": 930000000 }
+          "_seconds": 1660831743,
+          "_nanoseconds": 930000000
         }
       }
     },
@@ -477,7 +516,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012057, "_nanoseconds": 835999000 }
+          "_seconds": 1661012057,
+          "_nanoseconds": 835999000
         }
       }
     },
@@ -489,7 +529,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012058, "_nanoseconds": 7999000 }
+          "_seconds": 1661012058,
+          "_nanoseconds": 7999000
         }
       }
     },
@@ -501,7 +542,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012058, "_nanoseconds": 167000000 }
+          "_seconds": 1661012058,
+          "_nanoseconds": 167000000
         }
       }
     },
@@ -513,7 +555,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012058, "_nanoseconds": 292000000 }
+          "_seconds": 1661012058,
+          "_nanoseconds": 292000000
         }
       }
     },
@@ -525,7 +568,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012058, "_nanoseconds": 594000000 }
+          "_seconds": 1661012058,
+          "_nanoseconds": 594000000
         }
       }
     },
@@ -537,7 +581,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012058, "_nanoseconds": 736000000 }
+          "_seconds": 1661012058,
+          "_nanoseconds": 736000000
         }
       }
     },
@@ -549,7 +594,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012058, "_nanoseconds": 901999000 }
+          "_seconds": 1661012058,
+          "_nanoseconds": 901999000
         }
       }
     },
@@ -561,7 +607,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012059, "_nanoseconds": 576999000 }
+          "_seconds": 1661012059,
+          "_nanoseconds": 576999000
         }
       }
     },
@@ -573,7 +620,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012059, "_nanoseconds": 759999000 }
+          "_seconds": 1661012059,
+          "_nanoseconds": 759999000
         }
       }
     },
@@ -585,7 +633,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661012059, "_nanoseconds": 926000000 }
+          "_seconds": 1661012059,
+          "_nanoseconds": 926000000
         }
       }
     },
@@ -597,7 +646,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661041651, "_nanoseconds": 765000000 }
+          "_seconds": 1661041651,
+          "_nanoseconds": 765000000
         }
       }
     },
@@ -609,7 +659,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661222590, "_nanoseconds": 601000000 }
+          "_seconds": 1661222590,
+          "_nanoseconds": 601000000
         }
       }
     },
@@ -621,7 +672,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661222592, "_nanoseconds": 160000000 }
+          "_seconds": 1661222592,
+          "_nanoseconds": 160000000
         }
       }
     },
@@ -633,7 +685,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661222615, "_nanoseconds": 829999000 }
+          "_seconds": 1661222615,
+          "_nanoseconds": 829999000
         }
       }
     },
@@ -645,7 +698,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661281985, "_nanoseconds": 927000000 }
+          "_seconds": 1661281985,
+          "_nanoseconds": 927000000
         }
       }
     },
@@ -657,7 +711,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661281986, "_nanoseconds": 55999000 }
+          "_seconds": 1661281986,
+          "_nanoseconds": 55999000
         }
       }
     },
@@ -669,7 +724,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661391567, "_nanoseconds": 854000000 }
+          "_seconds": 1661391567,
+          "_nanoseconds": 854000000
         }
       }
     },
@@ -681,7 +737,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661391570, "_nanoseconds": 999000 }
+          "_seconds": 1661391570,
+          "_nanoseconds": 999000
         }
       }
     },
@@ -693,7 +750,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661391570, "_nanoseconds": 158999000 }
+          "_seconds": 1661391570,
+          "_nanoseconds": 158999000
         }
       }
     },
@@ -705,7 +763,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661532875, "_nanoseconds": 813999000 }
+          "_seconds": 1661532875,
+          "_nanoseconds": 813999000
         }
       }
     },
@@ -717,7 +776,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661548560, "_nanoseconds": 619999000 }
+          "_seconds": 1661548560,
+          "_nanoseconds": 619999000
         }
       }
     },
@@ -729,7 +789,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661595657, "_nanoseconds": 164999000 }
+          "_seconds": 1661595657,
+          "_nanoseconds": 164999000
         }
       }
     },
@@ -741,7 +802,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661595657, "_nanoseconds": 325999000 }
+          "_seconds": 1661595657,
+          "_nanoseconds": 325999000
         }
       }
     },
@@ -753,7 +815,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661595657, "_nanoseconds": 476999000 }
+          "_seconds": 1661595657,
+          "_nanoseconds": 476999000
         }
       }
     },
@@ -765,7 +828,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661595657, "_nanoseconds": 594000000 }
+          "_seconds": 1661595657,
+          "_nanoseconds": 594000000
         }
       }
     },
@@ -777,7 +841,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661595657, "_nanoseconds": 753999000 }
+          "_seconds": 1661595657,
+          "_nanoseconds": 753999000
         }
       }
     },
@@ -789,7 +854,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661626847, "_nanoseconds": 996999000 }
+          "_seconds": 1661626847,
+          "_nanoseconds": 996999000
         }
       }
     },
@@ -801,7 +867,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661626848, "_nanoseconds": 805999000 }
+          "_seconds": 1661626848,
+          "_nanoseconds": 805999000
         }
       }
     },
@@ -813,7 +880,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661711158, "_nanoseconds": 885999000 }
+          "_seconds": 1661711158,
+          "_nanoseconds": 885999000
         }
       }
     },
@@ -825,7 +893,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661711165, "_nanoseconds": 634000000 }
+          "_seconds": 1661711165,
+          "_nanoseconds": 634000000
         }
       }
     },
@@ -837,7 +906,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661711165, "_nanoseconds": 834000000 }
+          "_seconds": 1661711165,
+          "_nanoseconds": 834000000
         }
       }
     },
@@ -849,7 +919,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661828364, "_nanoseconds": 253999000 }
+          "_seconds": 1661828364,
+          "_nanoseconds": 253999000
         }
       }
     },
@@ -861,7 +932,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661828364, "_nanoseconds": 401000000 }
+          "_seconds": 1661828364,
+          "_nanoseconds": 401000000
         }
       }
     },
@@ -873,7 +945,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661828364, "_nanoseconds": 542999000 }
+          "_seconds": 1661828364,
+          "_nanoseconds": 542999000
         }
       }
     },
@@ -885,7 +958,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1661992229, "_nanoseconds": 598000000 }
+          "_seconds": 1661992229,
+          "_nanoseconds": 598000000
         }
       }
     },
@@ -897,7 +971,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1662123216, "_nanoseconds": 747999000 }
+          "_seconds": 1662123216,
+          "_nanoseconds": 747999000
         }
       }
     },
@@ -909,7 +984,8 @@
       },
       "properties": {
         "timestamp": {
-          "value": { "_seconds": 1662213081, "_nanoseconds": 660000000 }
+          "_seconds": 1662213081,
+          "_nanoseconds": 660000000
         }
       }
     }
