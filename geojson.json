@@ -7,15 +7,15 @@
         "type": "Point",
         "coordinates": null
       },
+      "location": {
+        "__datatype__": "geopoint",
+        "value": { "_latitude": 37.785834, "_longitude": -122.406417 }
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
           "value": { "_seconds": 1660033222, "_nanoseconds": 642999000 }
         }
-      },
-      "location": {
-        "__datatype__": "geopoint",
-        "value": { "_latitude": 37.785834, "_longitude": -122.406417 }
       }
     },
     {
@@ -61,17 +61,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660056926, "_nanoseconds": 306999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.52688732060276,
           "_longitude": -0.13729837411034498
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660056926, "_nanoseconds": 306999000 }
         }
       }
     },
@@ -81,17 +81,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660065068, "_nanoseconds": 835999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.52680854758958,
           "_longitude": -0.13741860910758666
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660065068, "_nanoseconds": 835999000 }
         }
       }
     },
@@ -121,17 +121,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660071232, "_nanoseconds": 151000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.511625493450424,
           "_longitude": -0.0893785095589529
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660071232, "_nanoseconds": 151000000 }
         }
       }
     },
@@ -161,17 +161,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660072072, "_nanoseconds": 42999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.510910145246385,
           "_longitude": -0.09689932114544705
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660072072, "_nanoseconds": 42999000 }
         }
       }
     },
@@ -241,17 +241,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660130856, "_nanoseconds": 456000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.49924220671586,
           "_longitude": -0.24187240928615128
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660130856, "_nanoseconds": 456000000 }
         }
       }
     },
@@ -260,12 +260,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": null
-      },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660130859, "_nanoseconds": 634999000 }
-        }
       },
       "location": {
         "__datatype__": "geopoint",
@@ -273,6 +267,12 @@
           "_latitude": 51.49925070992073,
           "_longitude": -0.24108798554364663
         }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660130859, "_nanoseconds": 634999000 }
+        }
       }
     },
     {
@@ -281,17 +281,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660141411, "_nanoseconds": 592000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.48943212573632,
           "_longitude": -0.28720411488312575
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660141411, "_nanoseconds": 592000000 }
         }
       }
     },
@@ -341,17 +341,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660223204, "_nanoseconds": 743999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.512678233227646,
           "_longitude": -0.09369841543868807
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660223204, "_nanoseconds": 743999000 }
         }
       }
     },
@@ -401,17 +401,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660236080, "_nanoseconds": 117000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.52674629564652,
           "_longitude": -0.13753826030501545
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660236080, "_nanoseconds": 117000000 }
         }
       }
     },
@@ -421,17 +421,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660244311, "_nanoseconds": 609999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.526147208529096,
           "_longitude": -0.13394531846595417
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660244311, "_nanoseconds": 609999000 }
         }
       }
     },
@@ -461,17 +461,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660293841, "_nanoseconds": 918999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.52620985536734,
           "_longitude": -0.13667838273809313
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660293841, "_nanoseconds": 918999000 }
         }
       }
     },
@@ -481,17 +481,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660305179, "_nanoseconds": 444999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 51.51843342511383,
           "_longitude": -0.1321330858687167
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660305179, "_nanoseconds": 444999000 }
         }
       }
     },
@@ -581,17 +581,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660622330, "_nanoseconds": 150000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147532281201485,
           "_longitude": -118.04439436454352
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660622330, "_nanoseconds": 150000000 }
         }
       }
     },
@@ -621,17 +621,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660671943, "_nanoseconds": 128000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147532281201485,
           "_longitude": -118.04439436454352
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660671943, "_nanoseconds": 128000000 }
         }
       }
     },
@@ -641,17 +641,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660671943, "_nanoseconds": 269999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147532281201485,
           "_longitude": -118.04439436454352
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660671943, "_nanoseconds": 269999000 }
         }
       }
     },
@@ -701,17 +701,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660785572, "_nanoseconds": 23000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147532281201485,
           "_longitude": -118.04439436454352
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660785572, "_nanoseconds": 23000000 }
         }
       }
     },
@@ -720,19 +720,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": null
+      },
+      "location": {
+        "__datatype__": "geopoint",
+        "value": {
+          "_latitude": 34.147532281201485,
+          "_longitude": -118.04439436454352
+        }
       },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
           "value": { "_seconds": 1660785574, "_nanoseconds": 380000000 }
         }
-      },
-      "location": {
-        "__datatype__": "geopoint",
-        "value": {
-          "_latitude": 34.147532281201485,
-          "_longitude": -118.04439436454352
-        }
       }
     },
     {
@@ -740,19 +740,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": null
+      },
+      "location": {
+        "__datatype__": "geopoint",
+        "value": {
+          "_latitude": 34.147462663484944,
+          "_longitude": -118.04446753112214
+        }
       },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
           "value": { "_seconds": 1660831743, "_nanoseconds": 628000000 }
         }
-      },
-      "location": {
-        "__datatype__": "geopoint",
-        "value": {
-          "_latitude": 34.147462663484944,
-          "_longitude": -118.04446753112214
-        }
       }
     },
     {
@@ -761,17 +761,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1660831743, "_nanoseconds": 930000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147462663484944,
           "_longitude": -118.04446753112214
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1660831743, "_nanoseconds": 930000000 }
         }
       }
     },
@@ -801,17 +801,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661012058, "_nanoseconds": 7999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147510853314266,
           "_longitude": -118.04440964408185
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661012058, "_nanoseconds": 7999000 }
         }
       }
     },
@@ -821,17 +821,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661012058, "_nanoseconds": 167000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147510853314266,
           "_longitude": -118.04440964408185
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661012058, "_nanoseconds": 167000000 }
         }
       }
     },
@@ -861,17 +861,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661012058, "_nanoseconds": 594000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147510853314266,
           "_longitude": -118.04440964408185
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661012058, "_nanoseconds": 594000000 }
         }
       }
     },
@@ -881,17 +881,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661012058, "_nanoseconds": 736000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147510853314266,
           "_longitude": -118.04440964408185
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661012058, "_nanoseconds": 736000000 }
         }
       }
     },
@@ -921,17 +921,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661012059, "_nanoseconds": 576999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147510853314266,
           "_longitude": -118.04440964408185
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661012059, "_nanoseconds": 576999000 }
         }
       }
     },
@@ -961,17 +961,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661012059, "_nanoseconds": 926000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147510853314266,
           "_longitude": -118.04440964408185
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661012059, "_nanoseconds": 926000000 }
         }
       }
     },
@@ -980,12 +980,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": null
-      },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661041651, "_nanoseconds": 765000000 }
-        }
       },
       "location": {
         "__datatype__": "geopoint",
@@ -993,6 +987,12 @@
           "_latitude": 34.147509416373744,
           "_longitude": -118.04440884011913
         }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661041651, "_nanoseconds": 765000000 }
+        }
       }
     },
     {
@@ -1001,17 +1001,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661222590, "_nanoseconds": 601000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.12883530849231,
           "_longitude": -118.03198507010698
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661222590, "_nanoseconds": 601000000 }
         }
       }
     },
@@ -1041,17 +1041,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661222615, "_nanoseconds": 829999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.129086666897685,
           "_longitude": -118.03194364531416
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661222615, "_nanoseconds": 829999000 }
         }
       }
     },
@@ -1061,17 +1061,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661281985, "_nanoseconds": 927000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.147504344362,
           "_longitude": -118.04441174335096
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661281985, "_nanoseconds": 927000000 }
         }
       }
     },
@@ -1101,17 +1101,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661391567, "_nanoseconds": 854000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 34.060210149765446,
           "_longitude": -118.44670444190375
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661391567, "_nanoseconds": 854000000 }
         }
       }
     },
@@ -1261,17 +1261,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661595657, "_nanoseconds": 594000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.31486983944881,
           "_longitude": -72.92545082896928
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661595657, "_nanoseconds": 594000000 }
         }
       }
     },
@@ -1280,12 +1280,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": null
-      },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661595657, "_nanoseconds": 753999000 }
-        }
       },
       "location": {
         "__datatype__": "geopoint",
@@ -1293,6 +1287,12 @@
           "_latitude": 41.31486982677866,
           "_longitude": -72.92545082054812
         }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661595657, "_nanoseconds": 753999000 }
+        }
       }
     },
     {
@@ -1301,17 +1301,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661626847, "_nanoseconds": 996999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.3148038220319,
           "_longitude": -72.92552943045948
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661626847, "_nanoseconds": 996999000 }
         }
       }
     },
@@ -1381,17 +1381,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661711165, "_nanoseconds": 834000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.31408477506808,
           "_longitude": -72.92273166646122
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661711165, "_nanoseconds": 834000000 }
         }
       }
     },
@@ -1401,17 +1401,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661828364, "_nanoseconds": 253999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.31491773415001,
           "_longitude": -72.92544795867404
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661828364, "_nanoseconds": 253999000 }
         }
       }
     },
@@ -1441,17 +1441,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661828364, "_nanoseconds": 542999000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.314937619654074,
           "_longitude": -72.92542274419931
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661828364, "_nanoseconds": 542999000 }
         }
       }
     },
@@ -1461,17 +1461,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1661992229, "_nanoseconds": 598000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.31033009799683,
           "_longitude": -72.92672372629448
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1661992229, "_nanoseconds": 598000000 }
         }
       }
     },
@@ -1501,17 +1501,17 @@
         "type": "Point",
         "coordinates": null
       },
-      "properties": {
-        "timestamp": {
-          "__datatype__": "timestamp",
-          "value": { "_seconds": 1662213081, "_nanoseconds": 660000000 }
-        }
-      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
           "_latitude": 41.31475111650219,
           "_longitude": -72.92537683692288
+        }
+      },
+      "properties": {
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": { "_seconds": 1662213081, "_nanoseconds": 660000000 }
         }
       }
     }
