@@ -3,6 +3,10 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -16,6 +20,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": { "_latitude": 37.785834, "_longitude": -122.406417 }
@@ -29,6 +37,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -45,6 +57,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -61,6 +77,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -77,6 +97,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -93,6 +117,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -109,6 +137,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -125,6 +157,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -141,6 +177,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -157,6 +197,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -173,6 +217,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -189,6 +237,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -205,6 +257,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -221,6 +277,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -237,6 +297,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -253,6 +317,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -269,6 +337,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -285,6 +357,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -301,6 +377,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -317,6 +397,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -333,6 +417,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -349,6 +437,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -365,6 +457,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -381,6 +477,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -397,6 +497,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -413,6 +517,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -429,6 +537,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -445,6 +557,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -461,6 +577,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -477,6 +597,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -493,6 +617,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -509,6 +637,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -525,6 +657,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -541,6 +677,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -557,6 +697,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -573,6 +717,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -589,6 +737,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -605,6 +757,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -621,6 +777,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -637,6 +797,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -653,6 +817,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -669,6 +837,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -685,6 +857,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -701,6 +877,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -717,6 +897,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -733,6 +917,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -749,6 +937,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -765,6 +957,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -781,6 +977,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -797,6 +997,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -813,6 +1017,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -829,6 +1037,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -845,6 +1057,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -861,6 +1077,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -877,6 +1097,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -893,6 +1117,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -909,6 +1137,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -925,6 +1157,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -941,6 +1177,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -957,6 +1197,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -973,6 +1217,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -989,6 +1237,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -1005,6 +1257,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1021,6 +1277,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1037,6 +1297,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1053,6 +1317,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -1069,6 +1337,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -1085,6 +1357,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -1101,6 +1377,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1117,6 +1397,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1133,6 +1417,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -1149,6 +1437,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1165,6 +1457,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
@@ -1181,6 +1477,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "location": {
         "__datatype__": "geopoint",
         "value": {
@@ -1197,6 +1497,10 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
       "properties": {
         "timestamp": {
           "__datatype__": "timestamp",
