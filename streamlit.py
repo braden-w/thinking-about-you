@@ -38,3 +38,14 @@ slider = st.slider("How much do you love me?😍", 0, 100)
 # If the slider is at 100, show a secret message
 if slider == 100:
     st.write("I love you too! :)")
+# If the slider is at 0, show a secret message
+if slider == 0:
+    st.write("I'm sorry I'm not good enough for you :(")
+
+# Load the "Records.json" file
+with open("Records.json") as response:
+    data = json.load(response)
+  
+# For every record in the data, save the time, lat, and lon in a pandas dataframe
+df = pd.DataFrame(data['locations'])
+df
