@@ -95,7 +95,7 @@ for json_file in json_files:
   })
 
 # Create a dataframe from the locations list
-photos_df = pd.DataFrame(locations)
+photos_df = pd.DataFramet(locations)
 photos_df
 
 st.map(photos_df)
@@ -108,3 +108,11 @@ Finally, I combined the two data sources to create a map of all the times I thou
 # Combine the three dataframes and keep only "lat" and "lon"
 combined_df = pd.concat([geojson_df, location_history_df, photos_df], ignore_index=True)[['lat', 'lon']]
 combined_df
+
+# Number of rows in the combined dataframe
+len(geojson_df)
+len(location_history_df)
+len(photos_df)
+len(combined_df)
+
+st.map(combined_df)
