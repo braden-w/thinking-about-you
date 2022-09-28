@@ -108,7 +108,12 @@ Finally, I combined the two data sources to create a map of all the times I thou
 combined_df = pd.concat([geojson_df, location_history_df, photos_df], ignore_index=True)[['lat', 'lon', 'timestamp']]
 combined_df
 
-# Number of rows in the combined dataframe
-st.write(f"Number of points: {len(combined_df)}")
-
 st.map(combined_df)
+
+# Number of rows in the combined dataframe
+"""Tada! 🎉"""
+st.write(f"Number of points: {len(combined_df)}")
+"""Happy birthday Carrie! I hope you have a great day :)"""
+"""Love,
+Braden"""
+
