@@ -46,8 +46,8 @@ if slider == 0:
 
 
 """
-## A Problem
-An issue I encountered was that the app didn't register the location every time I pressed the button, which may have been because I didn't have internet all the time. I thought I had taken care of that case with Firebase, but it didn't work. So I decided to gather some telemetry from my phone to filll in the gaps.
+## More Data
+The app didn't register the location every time I pressed the button, which may have been because I didn't have internet all the time. I thought I had taken care of that case with Firebase, but it didn't work. So I decided to gather some telemetry from my phone to filll in the gaps.
 """
 
 # Load the "Records.json" file
@@ -100,12 +100,12 @@ photos_df
 st.map(photos_df)
 
 """
-## A Solution
+## Final Result
 Finally, I combined the two data sources to create a map of all the times I thought of you.
 """
 
 # Combine the three dataframes and keep only "lat" and "lon"
-combined_df = pd.concat([geojson_df, location_history_df, photos_df], ignore_index=True)[['lat', 'lon']]
+combined_df = pd.concat([geojson_df, location_history_df, photos_df], ignore_index=True)[['lat', 'lon', 'timestamp']]
 combined_df
 
 # Number of rows in the combined dataframe
