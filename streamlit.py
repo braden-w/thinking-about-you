@@ -65,9 +65,38 @@ location_history_df['lat'] = location_history_df['lat'].apply(lambda x: x/10**7)
 location_history_df['lon'] = location_history_df['lon'].apply(lambda x: x/10**7)
 # Filter out duplicate records where lat and lon are the same
 location_history_df = location_history_df.drop_duplicates(subset=['lat', 'lon'])
-# Truncate the lat and lon columns to 3 decimal places
+# Truncate the lat and lon columns to 3 decimal placets
 location_history_df['lat'] = location_history_df['lat'].apply(lambda x: round(x, 3))
 location_history_df['lon'] = location_history_df['lon'].apply(lambda x: round(x, 3))
 location_history_df
 
 st.map(location_history_df)
+
+# Load all json files in the "assets/json" folder
+import glob
+
+# Create a list of all json files in the "assets/json" folder
+json_files = glob.glob("assets/json/**/*.json")
+json_files
+
+# Create a list of locations
+locations = []
+
+for json_file in json_files:
+  with open(json_file) as response:
+    data = json.load(response)
+  if data['geoData']['latitude'] == 0.0 or data['geoData']['longitude'] == 0.0:
+    continue
+  # Append to locations
+  locations.append({
+    "lat": data['geoData']['latitude'],
+    "lon": data['geoData']['longitude'],
+    "timestamp": data['photoTakenTime']['formatted']
+  })
+
+locations
+# Create a dataframe from the locations list
+photos_df = pd.DataFrame(locations)
+photos_df
+
+st.map(photos_df)
