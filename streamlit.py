@@ -3,18 +3,10 @@ import numpy as np
 import json
 
 import pandas as pd
-df = pd.DataFrame({
-  'first column': [1, 2, 3, 4],
-  'second column': [10, 20, 30, 40]
-})
-
-df
 
 # Set map_data to the geojson.json data
 with open("geojson.json") as response:
     map_data = json.load(response)
-
-# st.map(map_data)
 
 map_data
 
