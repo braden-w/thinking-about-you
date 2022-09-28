@@ -32,4 +32,9 @@ df
 
 # Create a map and a slider to visualize the data
 st.map(df)
-st.slider("How much do you love me?", 0, 100)
+
+slider = st.slider("How much do you love me?😍", 0, 100) 
+
+# If the slider is at 100, show a secret message
+if slider == 100:
+    st.write("I love you too! :)")
