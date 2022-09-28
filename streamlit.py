@@ -109,6 +109,6 @@ combined_df = pd.concat([geojson_df, location_history_df, photos_df], ignore_ind
 combined_df
 
 # Number of rows in the combined dataframe
-st.write(f"Number of times: {len(combined_df)}")
+st.write(f"Number of points: {len(combined_df)}")
 
 st.map(combined_df)
