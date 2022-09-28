@@ -3,7 +3,7 @@ import numpy as np
 import json
 import pandas as pd
 
-"""# Thinking about you
+"""# Thinking about you ♥️
 Hi Carrie! This is Braden :)
 
 It's you're birthday, and I wanted to say hi and let you know that I'm thinking about you.  This is a repository of every thought I had of you during this summer :)
@@ -13,7 +13,7 @@ While I was at London, I made an app which recorded the time and location whenev
 
 st.image("thinking about you.jpg")
 
-"""I exported the database and then converted it into a GeoJSON file (a file which can be visualized on a map) to double check that everything was working."""
+"""I exported the database and then converted it into a GeoJSON file (a file which can be visualized on a map) to double check that everything was working. You can also see the file hosted [here](https://github.com/braden-w/thinking-about-you)"""
 
 # Set map_data to the geojson.json data
 with open("geojson.json") as response:
