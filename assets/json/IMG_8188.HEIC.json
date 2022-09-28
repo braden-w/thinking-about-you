@@ -1,0 +1,40 @@
+{
+  "title": "IMG_8188.HEIC",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1661385770",
+    "formatted": "Aug 25, 2022, 12:02:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657703502",
+    "formatted": "Jul 13, 2022, 9:11:42 AM UTC"
+  },
+  "geoData": {
+    "latitude": 51.3865,
+    "longitude": -2.3674999999999997,
+    "altitude": 50.69,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.3865,
+    "longitude": -2.3674999999999997,
+    "altitude": 50.69,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/kMuZVc7Gfezc12xfAv9Vhf3NT0bxLD-A-SkfBZCwSnr1sOXd0XbkSW4tM0IFFwFjQR0mphr6terGXbgZjKsWI5Ukh6ayO7elb3JT09Hy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664379615",
+    "formatted": "Sep 28, 2022, 3:40:15 PM UTC"
+  }
+}

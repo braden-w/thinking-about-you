@@ -12,12 +12,12 @@ It's you're birthday, and I wanted to say hi and let you know that I'm thinking 
 While I was at London, I made an app which recorded the time and location whenever I thought of you and pressed a button. The goal was to let you see how much I'm thinking about you. It's a little silly, but I hope you like it (because your architecture friends were roasting me LOL).
 """
 
-st.image("thinking about you.jpg")
+st.image("assets/thinking about you.jpg")
 
 """I exported the database and then converted it into a GeoJSON file (a file which can be visualized on a map) to double check that everything was working. You can also see the file hosted [here](https://github.com/braden-w/thinking-about-you)."""
 
 # Set map_data to the geojson.json data
-with open("geojson.json") as response:
+with open("assets/geojson.json") as response:
     map_data = json.load(response)
 map_data
 
@@ -51,7 +51,7 @@ An issue I encountered was that the app didn't register the location every time 
 """
 
 # Load the "Records.json" file
-with open("Records.json") as response:
+with open("assets/location_history.json") as response:
     data = json.load(response)
   
 # For every record in the data, save the time, lat, and lon in a pandas dataframe

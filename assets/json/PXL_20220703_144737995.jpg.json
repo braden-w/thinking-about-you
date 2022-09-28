@@ -1,0 +1,42 @@
+{
+  "title": "PXL_20220703_144737995.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1661386689",
+    "formatted": "Aug 25, 2022, 12:18:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1656859657",
+    "formatted": "Jul 3, 2022, 2:47:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }, {
+    "name": "Judah millan"
+  }],
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/GCspC2fh40hBY6RO5BzY9Lhy1S8Rp5l1cSvutMSoNuBoJHluE8ngvHIIhUNiGt1wuojZtlRl5WW02npUh2TsBEDApdoeR0_mHcheYrNz",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723111",
+    "formatted": "Sep 21, 2022, 1:18:31 AM UTC"
+  }
+}

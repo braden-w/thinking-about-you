@@ -1,0 +1,39 @@
+{
+  "title": "IMG_9909.HEIC",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1661385770",
+    "formatted": "Aug 25, 2022, 12:02:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1658573317",
+    "formatted": "Jul 23, 2022, 10:48:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/qCkTDrbM4H0wpmDgLp8LHBRHDsSU27nj0kOjCwAtxDuDn757PKEHonDxQ2yjciw-QdqDKKbb1rZXZyvvO6N0ciDKTce_mcpYxsruuuaj",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662131596",
+    "formatted": "Sep 2, 2022, 3:13:16 PM UTC"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "IMG_7968.HEIC",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1661386087",
+    "formatted": "Aug 25, 2022, 12:08:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657567877",
+    "formatted": "Jul 11, 2022, 7:31:17 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/Txc-gij5im3eOnX6Hh_4IuZnkBX8j-b-CBGs6PlDIm4RO-o5EjFoHEZRhTvjZ6TjicLxDXJuLMh0d1q3DGTwOKcjbNNz_IfkC0kdB-xY",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662131602",
+    "formatted": "Sep 2, 2022, 3:13:22 PM UTC"
+  }
+}

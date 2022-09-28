@@ -1,0 +1,39 @@
+{
+  "title": "PXL_20220703_132357619.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1661386689",
+    "formatted": "Aug 25, 2022, 12:18:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1656854637",
+    "formatted": "Jul 3, 2022, 1:23:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/eEvCuljUnOCyfz-_nz5RoufJWFdTn6gnwJR3sJMCSVwuqfw1uvUBQCrAMh3AAJeBiGlaA71RBV5rpvhii3r8Oq2dGQuo6HDeiMjSco-u",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662131595",
+    "formatted": "Sep 2, 2022, 3:13:15 PM UTC"
+  }
+}

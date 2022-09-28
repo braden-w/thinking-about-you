@@ -1,0 +1,39 @@
+{
+  "title": "C751DA4B-74D3-4D6B-9237-86503D36F290.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1661385770",
+    "formatted": "Aug 25, 2022, 12:02:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1659299980",
+    "formatted": "Jul 31, 2022, 8:39:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/_M8po6jZuCHqGUm8l3if9938Xab5TAXBwr3r3T0HLEw6PAXJClMbC2QI77OALkh8akSpLA7ofTqofkSMbXVI1S1QFtF3v20gDa4X_sXE",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662791626",
+    "formatted": "Sep 10, 2022, 6:33:46 AM UTC"
+  }
+}

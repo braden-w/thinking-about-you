@@ -1,0 +1,41 @@
+{
+  "title": "IMG_7966.HEIC",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1661386087",
+    "formatted": "Aug 25, 2022, 12:08:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657377798",
+    "formatted": "Jul 9, 2022, 2:43:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 51.5121,
+    "longitude": -0.12639999999999998,
+    "altitude": 23.77,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.5121,
+    "longitude": -0.12639999999999998,
+    "altitude": 23.77,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/VbUFNqCoWtyPIr89WyWNw21tAvYD1reA5weFWSdPzrbXhnGkdbgolgtY_-kZKzl_8o8rrB95G9a2EgwxDNsus8Iyjs9RKVyRCvKNG3UL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664386063",
+    "formatted": "Sep 28, 2022, 5:27:43 PM UTC"
+  }
+}

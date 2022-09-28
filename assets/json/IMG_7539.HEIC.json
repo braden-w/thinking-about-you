@@ -1,0 +1,40 @@
+{
+  "title": "IMG_7539.HEIC",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1661386689",
+    "formatted": "Aug 25, 2022, 12:18:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1656867426",
+    "formatted": "Jul 3, 2022, 4:57:06 PM UTC"
+  },
+  "geoData": {
+    "latitude": 51.5022556,
+    "longitude": -0.1293861,
+    "altitude": 4.083821423922947,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.5022556,
+    "longitude": -0.1293861,
+    "altitude": 4.083821423922947,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/Q_CHwgVrZZWmd2VANs5EkMlU-fPr7Ld-s3bCiDnlxW2-C7YVKISstOusBdtRiJt9E0zpZ7xlCk9WzjOSGBbx_GqIpMCr5Px5fOnGwiuz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662131596",
+    "formatted": "Sep 2, 2022, 3:13:16 PM UTC"
+  }
+}

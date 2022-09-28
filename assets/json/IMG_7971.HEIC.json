@@ -1,0 +1,40 @@
+{
+  "title": "IMG_7971.HEIC",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1661386087",
+    "formatted": "Aug 25, 2022, 12:08:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657567886",
+    "formatted": "Jul 11, 2022, 7:31:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/UobBtAYbae2_pkzV6yM9q8AhC1J4ivn3N9z44fkrL8b9wvDKoC_OzyK_rA9fHpww3F6ZMTWAeQb2qOpeSE86B5JB2YVZ1jef3kgZtneF",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664380454",
+    "formatted": "Sep 28, 2022, 3:54:14 PM UTC"
+  }
+}

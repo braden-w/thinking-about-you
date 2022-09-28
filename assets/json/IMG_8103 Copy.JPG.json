@@ -1,0 +1,40 @@
+{
+  "title": "IMG_8103 Copy.JPG",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1661385770",
+    "formatted": "Aug 25, 2022, 12:02:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657624880",
+    "formatted": "Jul 12, 2022, 11:21:20 AM UTC"
+  },
+  "geoData": {
+    "latitude": 51.1791,
+    "longitude": -1.8264,
+    "altitude": 97.04,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.1791,
+    "longitude": -1.8264,
+    "altitude": 97.04,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/4X7APIeJXpi65FH7-SRKiAemByFyWVVHqPO4gTMs9xWhKpGy1WxtXjop1JKNYKSCUa0gPWNdIeAPNQXFMrafpApeyAeccbQ3QHf4Gbu7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664378594",
+    "formatted": "Sep 28, 2022, 3:23:14 PM UTC"
+  }
+}
