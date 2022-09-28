@@ -11,6 +11,8 @@ It's you're birthday, and I wanted to say hi and let you know that I'm thinking 
 While I was at London, I made an app which recorded the time and location whenever I thought of you and pressed a button. The goal was to let you see how much I'm thinking about you. It's a little silly, but I hope you like it (because you're architecture friends were roasting me LOL).
 """
 
+st.image("thinking about you.jpg")
+
 """I exported the database and then converted it into a GeoJSON file (a file which can be visualized on a map) to double check that everything was working."""
 
 # Set map_data to the geojson.json data
