@@ -54,4 +54,8 @@ with open("Records.json") as response:
   
 # For every record in the data, save the time, lat, and lon in a pandas dataframe
 df = pd.DataFrame(data['locations'])
+# Rename the "latitudeE7" and "longitudeE7" columns to "lat" and "lon"
+df = df.rename(columns={"latitudeE7": "lat", "longitudeE7": "lon"})
 df
+
+st.map(df)
