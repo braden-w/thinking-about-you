@@ -3,7 +3,8 @@ import numpy as np
 import json
 import pandas as pd
 
-"""# Thinking about you ♥️
+"""
+# Thinking about you ♥️
 Hi Carrie! This is Braden :)
 
 It's you're birthday, and I wanted to say hi and let you know that I'm thinking about you.  This is a repository of every thought I had of you during this summer :)
@@ -44,8 +45,9 @@ if slider == 0:
 
 
 
-"""## A Problem
-An issue I encountered was that the app didn't register the location every time I pressed the button, which may have been because I didn't have internet all the time. I thought I had taken care of that case with Firebase, but it didn't work.
+"""
+## A Problem
+An issue I encountered was that the app didn't register the location every time I pressed the button, which may have been because I didn't have internet all the time. I thought I had taken care of that case with Firebase, but it didn't work. So I decided to gather some telemetry from my phone to filll in the gaps.
 """
 
 # Load the "Records.json" file
