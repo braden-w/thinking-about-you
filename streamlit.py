@@ -59,6 +59,8 @@ location_history_df = location_history_df.rename(columns={"latitudeE7": "lat", "
 # Divide the lat and lon columns by 10^7 to get the actual lat and lon
 location_history_df['lat'] = location_history_df['lat'].apply(lambda x: x/10**7)
 location_history_df['lon'] = location_history_df['lon'].apply(lambda x: x/10**7)
+# Filter down to records where "timestamp" begins with 2022
+location_history_df = location_history_df[location_history_df['timestamp'].str.startswith('2022')]
 location_history_df
 
 st.map(location_history_df)
