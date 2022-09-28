@@ -23,15 +23,15 @@ map_data
 """Then I converted it into a pandas dataframe so that I could do some data manipulation."""
 
 # Turn the geojson into a pandas dataframe with a lat and lon column
-df = pd.DataFrame(map_data['features'])
-df['lat'] = df['geometry'].apply(lambda x: x['coordinates'][1])
-df['lon'] = df['geometry'].apply(lambda x: x['coordinates'][0])
-df
+geojson_df = pd.DataFrame(map_data['features'])
+geojson_df['lat'] = geojson_df['geometry'].apply(lambda x: x['coordinates'][1])
+geojson_df['lon'] = geojson_df['geometry'].apply(lambda x: x['coordinates'][0])
+geojson_df
 
 """Finally, I used the streamlit library to create a map and a slider to visualize the data."""
 
 # Create a map and a slider to visualize the data
-st.map(df)
+st.map(geojson_df)
 
 slider = st.slider("How much do you love me?😍", 0, 100) 
 
@@ -53,9 +53,9 @@ with open("Records.json") as response:
     data = json.load(response)
   
 # For every record in the data, save the time, lat, and lon in a pandas dataframe
-df = pd.DataFrame(data['locations'])
+location_history_df = pd.DataFrame(data['locations'])
 # Rename the "latitudeE7" and "longitudeE7" columns to "lat" and "lon"
-df = df.rename(columns={"latitudeE7": "lat", "longitudeE7": "lon"})
-df
+location_history_df = location_history_df.rename(columns={"latitudeE7": "lat", "longitudeE7": "lon"})
+location_history_df
 
-st.map(df)
+st.map(location_history_df)
