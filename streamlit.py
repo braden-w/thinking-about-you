@@ -61,6 +61,8 @@ location_history_df['lat'] = location_history_df['lat'].apply(lambda x: x/10**7)
 location_history_df['lon'] = location_history_df['lon'].apply(lambda x: x/10**7)
 # Filter down to records where "timestamp" begins with 2022
 location_history_df = location_history_df[location_history_df['timestamp'].str.startswith('2022')]
+# Filter out duplicate records where lat and lon are the same
+location_history_df = location_history_df.drop_duplicates(subset=['lat', 'lon'])
 location_history_df
 
 st.map(location_history_df)
