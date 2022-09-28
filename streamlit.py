@@ -13,7 +13,7 @@ While I was at London, I made an app which recorded the time and location whenev
 
 st.image("thinking about you.jpg")
 
-"""I exported the database and then converted it into a GeoJSON file (a file which can be visualized on a map) to double check that everything was working. You can also see the file hosted [here](https://github.com/braden-w/thinking-about-you)"""
+"""I exported the database and then converted it into a GeoJSON file (a file which can be visualized on a map) to double check that everything was working. You can also see the file hosted [here](https://github.com/braden-w/thinking-about-you)."""
 
 # Set map_data to the geojson.json data
 with open("geojson.json") as response:
