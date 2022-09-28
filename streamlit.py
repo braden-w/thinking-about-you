@@ -34,11 +34,11 @@ geojson_df
 # Create a map and a slider to visualize the data
 st.map(geojson_df)
 
-slider = st.slider("How much do you love me?😍", 0, 100) 
+slider = st.slider("😍", 0, 100, 50) 
 
 # If the slider is at 100, show a secret message
 if slider == 100:
-    st.write("I love you too! :)")
+    st.write("Awww thank you! :)")
 # If the slider is at 0, show a secret message
 if slider == 0:
     st.write("I'm sorry I'm not good enough for you :(")
@@ -77,7 +77,6 @@ import glob
 
 # Create a list of all json files in the "assets/json" folder
 json_files = glob.glob("assets/json/**/*.json")
-json_files
 
 # Create a list of locations
 locations = []
@@ -95,7 +94,7 @@ for json_file in json_files:
   })
 
 # Create a dataframe from the locations list
-photos_df = pd.DataFramet(locations)
+photos_df = pd.DataFrame(locations)
 photos_df
 
 st.map(photos_df)
@@ -110,9 +109,6 @@ combined_df = pd.concat([geojson_df, location_history_df, photos_df], ignore_ind
 combined_df
 
 # Number of rows in the combined dataframe
-len(geojson_df)
-len(location_history_df)
-len(photos_df)
-len(combined_df)
+st.write(f"Number of times: {len(combined_df)}")
 
 st.map(combined_df)
