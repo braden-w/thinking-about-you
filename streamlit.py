@@ -42,6 +42,12 @@ if slider == 100:
 if slider == 0:
     st.write("I'm sorry I'm not good enough for you :(")
 
+
+
+"""## A Problem
+An issue I encountered was that the app didn't regester the location every time I pressed the button, which may have been because I didn't have internet all the time. Firebase was supposed to take care of i, but it didn't work.
+"""
+
 # Load the "Records.json" file
 with open("Records.json") as response:
     data = json.load(response)
