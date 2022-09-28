@@ -56,13 +56,13 @@ with open("assets/location_history.json") as response:
   
 # For every record in the data, save the time, lat, and lon in a pandas dataframe
 location_history_df = pd.DataFrame(data['locations'])
+# Filter down to records where "timestamp" begins with 2022
+location_history_df = location_history_df[location_history_df['timestamp'].str.startswith('2022')]
 # Rename the "latitudeE7" and "longitudeE7" columns to "lat" and "lon"
 location_history_df = location_history_df.rename(columns={"latitudeE7": "lat", "longitudeE7": "lon"})
 # Divide the lat and lon columns by 10^7 to get the actual lat and lon
 location_history_df['lat'] = location_history_df['lat'].apply(lambda x: x/10**7)
 location_history_df['lon'] = location_history_df['lon'].apply(lambda x: x/10**7)
-# Filter down to records where "timestamp" begins with 2022
-location_history_df = location_history_df[location_history_df['timestamp'].str.startswith('2022')]
 # Filter out duplicate records where lat and lon are the same
 location_history_df = location_history_df.drop_duplicates(subset=['lat', 'lon'])
 # Truncate the lat and lon columns to 3 decimal places
