@@ -1,0 +1,37 @@
+{
+  "title": "IMG_9231.HEIC",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1660261922",
+    "formatted": "Aug 11, 2022, 11:52:02 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1660218755",
+    "formatted": "Aug 11, 2022, 11:52:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 51.5125722,
+    "longitude": -0.0936639,
+    "altitude": 19.546773911522994,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.5125722,
+    "longitude": -0.0936639,
+    "altitude": 19.546773911522994,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/0P8q6J6_I61FJnAhzemBitscRkrNqNYS26Zr0pr6FxbhQEBj5T7Cefow-lSEaiDFAKGjDhGxpYADzC15ODgK1L2uRU0tvYNFE9emdzGj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723109",
+    "formatted": "Sep 21, 2022, 1:18:29 AM UTC"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "events_summer2.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1663875850",
+    "formatted": "Sep 22, 2022, 7:44:10 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650918673",
+    "formatted": "Apr 25, 2022, 8:31:13 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/SAejyyMNoN96z6_t-V1XspGhse21q8NAszVB4u9OfUTPvnflPL0Y-AwzBBa7Qy-_GOMCjmwQcDreeW94lonhHiVKoLK2t_WbbvO4DV73",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663876386",
+    "formatted": "Sep 22, 2022, 7:53:06 PM UTC"
+  }
+}

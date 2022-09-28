@@ -1,0 +1,42 @@
+{
+  "title": "IMG_6857.HEIC",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1650210905",
+    "formatted": "Apr 17, 2022, 3:55:05 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650082005",
+    "formatted": "Apr 16, 2022, 4:06:45 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }, {
+    "name": "Braden W"
+  }],
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/ROLzalR_9hsBJmQ-6GxN_y5ANsRNYZuk9jZN79x9_MqU_jz_huHVd1TBoq6YmfvkV2TFKpKB7NMD7lQJ6PX0FrAiE8mXTxPBDDlSRKVN",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663118765",
+    "formatted": "Sep 14, 2022, 1:26:05 AM UTC"
+  }
+}

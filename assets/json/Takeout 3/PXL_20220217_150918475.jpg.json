@@ -1,0 +1,37 @@
+{
+  "title": "PXL_20220217_150918475.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1648339884",
+    "formatted": "Mar 27, 2022, 12:11:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645110558",
+    "formatted": "Feb 17, 2022, 3:09:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/gCDXWpoyNYyAXJURXfY-cnQlkSkpCJ8rVn1NelEZwnMewfuw4xr8BTpuuXwgawfGL7vXZSd7yLN9xZPSmawyk8DWSCU3QSYUG73khIG2",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1657630870",
+    "formatted": "Jul 12, 2022, 1:01:10 PM UTC"
+  }
+}

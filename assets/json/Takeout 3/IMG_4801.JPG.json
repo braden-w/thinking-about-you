@@ -1,0 +1,38 @@
+{
+  "title": "IMG_4801.JPG",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1642698501",
+    "formatted": "Jan 20, 2022, 5:08:21 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1642696148",
+    "formatted": "Jan 20, 2022, 4:29:08 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/pAn5xPFURgcojqtoREcIeLtGShUuOmcPSDkAvXyYqmvCgDktuZW-lbkPdT2kmsm0Ut2Sb3kyYzIvDwlrG4xFUHdtLybFkJ8IuHyEsVoT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1657630807",
+    "formatted": "Jul 12, 2022, 1:00:07 PM UTC"
+  }
+}

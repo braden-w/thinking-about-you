@@ -1,0 +1,40 @@
+{
+  "title": "IMG_6629.PNG",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1650584929",
+    "formatted": "Apr 21, 2022, 11:48:49 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650584030",
+    "formatted": "Apr 21, 2022, 11:33:50 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/r6MoKyn-obVUcu0oBobddg77sS5OJSSCVEg5LtDfr1FQS0CCKdo9d_nmZzVuL-xI1HuuRxSO46Fa3BC3btuW1N2yojjvDFRqC9qwZqk1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1650770393",
+    "formatted": "Apr 24, 2022, 3:19:53 AM UTC"
+  }
+}

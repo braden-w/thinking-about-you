@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6224.JPG",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1649004385",
+    "formatted": "Apr 3, 2022, 4:46:25 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1649002554",
+    "formatted": "Apr 3, 2022, 4:15:54 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/-PiXSQrBccwDnatd5Wl-OgGyPE5JgCKj9HWITZ6DisGB8vjYt9lEe57bOn8ZbTYT5VQvQi8P5jV8lnoTGEdmCfhKpZRv5V9FTkSqbP26",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1652112009",
+    "formatted": "May 9, 2022, 4:00:09 PM UTC"
+  }
+}

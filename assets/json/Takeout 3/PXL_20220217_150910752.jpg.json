@@ -1,0 +1,39 @@
+{
+  "title": "PXL_20220217_150910752.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1648339884",
+    "formatted": "Mar 27, 2022, 12:11:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645110550",
+    "formatted": "Feb 17, 2022, 3:09:10 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/_5FFxo7yPqpyNBrLyYluK6fEyd-DLDNKaiKjtRDFgCKBxUy3SG1AeJ_vaOU7bLi5ZfB9czVD2iW8Br7l-nvdS84huBXUkXpEvXpg4xgp",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1660242811",
+    "formatted": "Aug 11, 2022, 6:33:31 PM UTC"
+  }
+}

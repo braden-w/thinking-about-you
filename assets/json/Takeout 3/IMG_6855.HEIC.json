@@ -1,0 +1,41 @@
+{
+  "title": "IMG_6855.HEIC",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1650210905",
+    "formatted": "Apr 17, 2022, 3:55:05 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650078325",
+    "formatted": "Apr 16, 2022, 3:05:25 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }, {
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/D-I4lKrXUYurasIVhbzfPAdf3AkyO1ArXOLGZg9jFSPL2Nq9orZ5Zb566xslXMwiDnubLtNIBMEcYwEnw9uZk6Z9O-JHL6iceVGNbIXL",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723063",
+    "formatted": "Sep 21, 2022, 1:17:43 AM UTC"
+  }
+}

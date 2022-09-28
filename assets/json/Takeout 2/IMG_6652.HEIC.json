@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6652.HEIC",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1650691014",
+    "formatted": "Apr 23, 2022, 5:16:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650684126",
+    "formatted": "Apr 23, 2022, 3:22:06 AM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3124,
+    "longitude": -72.92179999999999,
+    "altitude": 11.67,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3124,
+    "longitude": -72.92179999999999,
+    "altitude": 11.67,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/De2HJ20UYEZoj91Wl7m4woMNM2cB1VhxlBJMSksUmiQFuP-47KkfxfZx930vUgexJq5LeZiqkS9Qa7ns5p_5hAs_lVJohOdPEVUBpZ8j",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664371053",
+    "formatted": "Sep 28, 2022, 1:17:33 PM UTC"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4886.HEIC",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1643765175",
+    "formatted": "Feb 2, 2022, 1:26:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643758765",
+    "formatted": "Feb 1, 2022, 11:39:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3097,
+    "longitude": -72.9276,
+    "altitude": 12.82,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3097,
+    "longitude": -72.9276,
+    "altitude": 12.82,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/mpvtp05vS-buGf8yTAA7Z_OJpbGBNsfJZmkIrUrRAzD8ok1JwzNLOxPpmAG7PgOf482Scku-CpYiwiojQ4KiaLPrMMA09QbBTTjmfx-w",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664364428",
+    "formatted": "Sep 28, 2022, 11:27:08 AM UTC"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "IMG_5621.heic",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1641415203",
+    "formatted": "Jan 5, 2022, 8:40:03 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641411979",
+    "formatted": "Jan 5, 2022, 7:46:19 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/0BZM6g3ZhN0sxDGbWAZvtig-QVCzfUU4qlhE1C_HFcLSDb0M3tt9COJNQmfC2v5V2NKyFO-ZlYiFLDKVh8uBQxHX8fZRg04Pi_JWOHEM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188860",
+    "formatted": "Mar 25, 2022, 6:14:20 AM UTC"
+  }
+}

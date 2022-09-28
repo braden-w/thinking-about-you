@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4782.JPG",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1642351542",
+    "formatted": "Jan 16, 2022, 4:45:42 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1642350144",
+    "formatted": "Jan 16, 2022, 4:22:24 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/C0r_NkJYbHl37pVcWC-Y1AgdPLkwboo506Bj4-ZkGyt7EBXGn4tZiBtKpvhjPTsu4QyTbxf0-uW2YYyJrADtL7vJXfzQ-cXHqPoYeTj9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188865",
+    "formatted": "Mar 25, 2022, 6:14:25 AM UTC"
+  }
+}

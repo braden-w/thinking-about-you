@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1972.HEIC",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1645384259",
+    "formatted": "Feb 20, 2022, 7:10:59 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645250362",
+    "formatted": "Feb 19, 2022, 5:59:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/mp7-S2dXyFhGTlHQiQnx7TYyc3dgWmrPcg8Kh4PagizbrFHAdACHcYBethG3BY0OjA0n-XoDMDPDJxTNfnoO2hTLVY6vqe7m6yEF8F0y",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648339877",
+    "formatted": "Mar 27, 2022, 12:11:17 AM UTC"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_6144.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1662062669",
+    "formatted": "Sep 1, 2022, 8:04:29 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650915360",
+    "formatted": "Apr 25, 2022, 7:36:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/DRSrctgTS70rzSPPTezmZh3j4NlDTqIgKXKa7n5748j6d4LgGGoeI8c4XX1nL0Ktdqn4n-Yt6igxroOOYaKrN1_fxiKN3Kt_U5WcNNCu",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723044",
+    "formatted": "Sep 21, 2022, 1:17:24 AM UTC"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "IMG_5191.HEIC",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1646505237",
+    "formatted": "Mar 5, 2022, 6:33:57 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646503766",
+    "formatted": "Mar 5, 2022, 6:09:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.4979,
+    "longitude": -71.3678,
+    "altitude": 6.4,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.4979,
+    "longitude": -71.3678,
+    "altitude": 6.4,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/o4AV-KLQterrG-u5EwrgMms84IIOCsWNHGrOV-bSxwZgfsPHkkPenEgan2wFH2qgamyTTpW1GWt-zduYCa9xEIQbYOulWW0nGYHqYpdx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664366274",
+    "formatted": "Sep 28, 2022, 11:57:54 AM UTC"
+  }
+}

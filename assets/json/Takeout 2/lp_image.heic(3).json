@@ -1,0 +1,39 @@
+{
+  "title": "lp_image.heic",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1655592423",
+    "formatted": "Jun 18, 2022, 10:47:03 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654379001",
+    "formatted": "Jun 4, 2022, 9:43:21 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }],
+  "url": "https://lh3.googleusercontent.com/vRflr0f6xTBvUmPYDLqUb3ZmVVN3sXHmTGx5oyO_P77pDSlIZ9t5On_u8aq9AnK4qi9K0YD_uO2iv799XEDqUO4i89ZkrH6pNgTETkF_",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1656949459",
+    "formatted": "Jul 4, 2022, 3:44:19 PM UTC"
+  }
+}

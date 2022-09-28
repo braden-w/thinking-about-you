@@ -1,0 +1,37 @@
+{
+  "title": "IMG_5890.JPG",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1643012489",
+    "formatted": "Jan 24, 2022, 8:21:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1642973621",
+    "formatted": "Jan 23, 2022, 9:33:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/rkKMOVul1fcOBfEe2XLMoesSb-Gbxyvx2mZAb9Prz4X8x_VOoATmWNx0wuemd3MfmbC62DJLMaunU3ICjkL6nm1oBgo3bDtVQ72xKVBe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1660387093",
+    "formatted": "Aug 13, 2022, 10:38:13 AM UTC"
+  }
+}

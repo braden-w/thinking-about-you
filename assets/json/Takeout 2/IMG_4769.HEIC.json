@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4769.HEIC",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1642041356",
+    "formatted": "Jan 13, 2022, 2:35:56 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1642041006",
+    "formatted": "Jan 13, 2022, 2:30:06 AM UTC"
+  },
+  "geoData": {
+    "latitude": 34.1476,
+    "longitude": -118.04440000000001,
+    "altitude": 172.7,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 34.1476,
+    "longitude": -118.04440000000001,
+    "altitude": 172.7,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/AbIhjuaTHPi6Rig1ZL9nWrYl7Plftd1CIS0ymS-ELGv4Uo27NIFziOENLunUU87YYeHKwFQzGeZT26uedtYasyXZlSPJQJOMpVaqTDSJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664354854",
+    "formatted": "Sep 28, 2022, 8:47:34 AM UTC"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_8532.HEIC",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1646622226",
+    "formatted": "Mar 7, 2022, 3:03:46 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646522967",
+    "formatted": "Mar 5, 2022, 11:29:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/pkQ4JSDhbPiufyou5Z4LS51peeg4Oa0Ak-sQ_RuCJw3bxBYGPLJ10Qk1cgJ4chc3XG6a9JdNi1vXHSTT9QT8SgG4JMuYzHPatavYsQJE",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662993722",
+    "formatted": "Sep 12, 2022, 2:42:02 PM UTC"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "IMG_4761-EFFECTS.jpg",
+  "description": "",
+  "imageViews": "39",
+  "creationTime": {
+    "timestamp": "1642007986",
+    "formatted": "Jan 12, 2022, 5:19:46 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641945873",
+    "formatted": "Jan 12, 2022, 12:04:33 AM UTC"
+  },
+  "geoData": {
+    "latitude": 37.638613899999996,
+    "longitude": -119.020425,
+    "altitude": 2924.478021978022,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 37.638613899999996,
+    "longitude": -119.020425,
+    "altitude": 2924.478021978022,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/HLk40lQC_qzFi5kTHzYPMhC9Tjbs1GcwN72hHqmOJGWXOFUpV-XQRAHwmzB_DEhzAs9X6lH3TJebvNb7hLyPric_mWfqAEqg0NAGVoEU",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188859",
+    "formatted": "Mar 25, 2022, 6:14:19 AM UTC"
+  }
+}

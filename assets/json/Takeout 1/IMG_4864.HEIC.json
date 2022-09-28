@@ -1,0 +1,38 @@
+{
+  "title": "IMG_4864.HEIC",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1643486179",
+    "formatted": "Jan 29, 2022, 7:56:19 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643484277",
+    "formatted": "Jan 29, 2022, 7:24:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3164,
+    "longitude": -72.9225,
+    "altitude": 15.98,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3164,
+    "longitude": -72.9225,
+    "altitude": 15.98,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/WpjvU71rrFx6V0vLHh_uIsTA9ycyua1tQcrCf3MF5ymfAjj_tVvmmbaWnwz7-GqAMpOS80E1ldyEuOUH48t6Knd1Ytu12KT5PWuj32ac",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664359169",
+    "formatted": "Sep 28, 2022, 9:59:29 AM UTC"
+  }
+}

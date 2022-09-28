@@ -1,0 +1,37 @@
+{
+  "title": "IMG_3156.jpeg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1654327400",
+    "formatted": "Jun 4, 2022, 7:23:20 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654310834",
+    "formatted": "Jun 4, 2022, 2:47:14 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/N8gAF-xAHQDu0ARJg0D65jwA_o4HXZXPIaWBU0kz84PTIlzKBIqDdOGOMpggKO4eSh1Z5f20sVU6MiZbpUhYjn60mGg2JTDwPSjn5Dd8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1654754985",
+    "formatted": "Jun 9, 2022, 6:09:45 AM UTC"
+  }
+}

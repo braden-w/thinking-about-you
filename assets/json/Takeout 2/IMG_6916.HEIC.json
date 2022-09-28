@@ -1,0 +1,39 @@
+{
+  "title": "IMG_6916.HEIC",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1650743541",
+    "formatted": "Apr 23, 2022, 7:52:21 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650683996",
+    "formatted": "Apr 23, 2022, 3:19:56 AM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3122639,
+    "longitude": -72.92173890000001,
+    "altitude": 11.834224734480749,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3122639,
+    "longitude": -72.92173890000001,
+    "altitude": 11.834224734480749,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }],
+  "url": "https://lh3.googleusercontent.com/Myxigvjltpuxqzh4CJ08XNC-nsfjzlJujMwVcA0qCxTIl8Qm7qoA1qfvIwl2T-MWH7dl522xJAiy4YrLw8k_g8Qje34Uvb6xgoaP5CsZ",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663019852",
+    "formatted": "Sep 12, 2022, 9:57:32 PM UTC"
+  }
+}

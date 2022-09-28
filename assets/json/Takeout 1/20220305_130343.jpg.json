@@ -1,0 +1,39 @@
+{
+  "title": "20220305_130343.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1646622226",
+    "formatted": "Mar 7, 2022, 3:03:46 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646503423",
+    "formatted": "Mar 5, 2022, 6:03:43 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/mOOL6bWveilb9YFTBdflqPrNfDfloOKkJLliL8azzrC24dZhDx4qJhrxr0boAayThk9WiM8Rw6YXD8_NETiist8y-TnoSUv5uKidQXTs",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1661635676",
+    "formatted": "Aug 27, 2022, 9:27:56 PM UTC"
+  }
+}

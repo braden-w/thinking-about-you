@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4933.JPG",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1644782400",
+    "formatted": "Feb 13, 2022, 8:00:00 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1644778017",
+    "formatted": "Feb 13, 2022, 6:46:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Jl79GCJfmwBg29CNTT5pXGlf40IhsMQvFy5K_pbGyyOlE-ZC0Edu1Uhga81Jkk-e9CTqCpyxie6gQmR4k9h72wlbvHJ6f1icf4Vh7X8F",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188857",
+    "formatted": "Mar 25, 2022, 6:14:17 AM UTC"
+  }
+}

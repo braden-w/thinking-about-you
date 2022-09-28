@@ -1,0 +1,41 @@
+{
+  "title": "IMG_6931.HEIC",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1650743541",
+    "formatted": "Apr 23, 2022, 7:52:21 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650684815",
+    "formatted": "Apr 23, 2022, 3:33:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3123639,
+    "longitude": -72.9218444,
+    "altitude": 12.300242027939365,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3123639,
+    "longitude": -72.9218444,
+    "altitude": 12.300242027939365,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }, {
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/qsWvpmhF1-zbuyNtPExD4F8JxKDv1VBOJzCSaK-J520ZzvFXt7k5MMjyA-tuN_1spDV4z7jVi3vp-HsNArWGDSDWLNtz8HN08f7NiLI9",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723055",
+    "formatted": "Sep 21, 2022, 1:17:35 AM UTC"
+  }
+}

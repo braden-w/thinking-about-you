@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4776.HEIC",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1642219182",
+    "formatted": "Jan 15, 2022, 3:59:42 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1642184081",
+    "formatted": "Jan 14, 2022, 6:14:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 33.942699999999995,
+    "longitude": -118.4013833,
+    "altitude": 44.17239382239382,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 33.942699999999995,
+    "longitude": -118.4013833,
+    "altitude": 44.17239382239382,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Adwi58lS4h9PjIfhb3lA8TQvXoIgE05uknKH2dGMgmWoA-G4IdNDC13PuVqCg0oAy6RgMMNSvOnmM9nxNMzXkhauLjHjewrosdkoBwPm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188861",
+    "formatted": "Mar 25, 2022, 6:14:21 AM UTC"
+  }
+}

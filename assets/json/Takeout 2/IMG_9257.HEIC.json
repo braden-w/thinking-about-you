@@ -1,0 +1,37 @@
+{
+  "title": "IMG_9257.HEIC",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1660244966",
+    "formatted": "Aug 11, 2022, 7:09:26 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1660241762",
+    "formatted": "Aug 11, 2022, 6:16:02 PM UTC"
+  },
+  "geoData": {
+    "latitude": 51.526097199999995,
+    "longitude": -0.1337417,
+    "altitude": 26.864271143888278,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.526097199999995,
+    "longitude": -0.1337417,
+    "altitude": 26.864271143888278,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dmtTPu0OsyQ7GDDkjozuRmMIwt8YmkvHS_PYJoZITKJj9I0puObjNC_g6MW1Bqf4vvXmUhlH77Df7QX68rhVd_lU43wXHTwUFofWJBc9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723060",
+    "formatted": "Sep 21, 2022, 1:17:40 AM UTC"
+  }
+}

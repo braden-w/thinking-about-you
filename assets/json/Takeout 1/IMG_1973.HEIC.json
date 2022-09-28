@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1973.HEIC",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1645384224",
+    "formatted": "Feb 20, 2022, 7:10:24 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645250385",
+    "formatted": "Feb 19, 2022, 5:59:45 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/LZXtjKZOjozjtmcoLHYXOaA_EHY6K83qjcwVf3yEEQAyu-odyDeKr7a5jKyJQqSPlXlpx-WkfCun3787EPIMwii7RqAvKGyFECsaRkf_",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648339877",
+    "formatted": "Mar 27, 2022, 12:11:17 AM UTC"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "IMG_1436.heic",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1654407368",
+    "formatted": "Jun 5, 2022, 5:36:08 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654397242",
+    "formatted": "Jun 5, 2022, 2:47:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }, {
+    "name": "Bryce Wong"
+  }],
+  "url": "https://lh3.googleusercontent.com/UevRSlO5nCNct5hodYLiMUA-65nJru1U6XosLGY9ZL7Vz9QXK84bH1RJC0INa8y1AHXqir3tgBCv-72Aoifb5BVVXU2QLk9-m9snLSqK",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664375288",
+    "formatted": "Sep 28, 2022, 2:28:08 PM UTC"
+  }
+}

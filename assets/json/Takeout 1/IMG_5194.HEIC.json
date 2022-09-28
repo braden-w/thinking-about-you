@@ -1,0 +1,37 @@
+{
+  "title": "IMG_5194.HEIC",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1646505239",
+    "formatted": "Mar 5, 2022, 6:33:59 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646503980",
+    "formatted": "Mar 5, 2022, 6:13:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.4979,
+    "longitude": -71.3677,
+    "altitude": 6.05,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.4979,
+    "longitude": -71.3677,
+    "altitude": 6.05,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/NxqBpzbOxRV3cLL1EhXr-tgbynKgurcNN5qkgpVBHuZm_F77GP5IdCfnQ-bYpvcxbG4AhxncG1e2Nc1l_lhWdEK7y_TGcIsdTKou2EKH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664379075",
+    "formatted": "Sep 28, 2022, 3:31:15 PM UTC"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6603.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1650299561",
+    "formatted": "Apr 18, 2022, 4:32:41 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650297383",
+    "formatted": "Apr 18, 2022, 3:56:23 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/QrZ2j4JhNRULCZU0k3qmGM1_RggmOiMRHAcfcbS7ZpmmjDiHirI6neNvyhQFvi-ReDHoD-VYhK8r9PE2s7tEtI6R24UUcUsJEcMGnA7i",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1652112009",
+    "formatted": "May 9, 2022, 4:00:09 PM UTC"
+  }
+}

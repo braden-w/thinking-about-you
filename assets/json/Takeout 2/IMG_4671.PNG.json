@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4671.PNG",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1641025394",
+    "formatted": "Jan 1, 2022, 8:23:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641025150",
+    "formatted": "Jan 1, 2022, 8:19:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/aGiQWvF9Z3BiERBe_W_I4u3qW0q9NesERpD5JAQ9l07KFlaOTAy3Um-dT744IdBkEeLDUJIQCh__tkALBdbQvpa-UEZw2Lvwv7fthNFV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188864",
+    "formatted": "Mar 25, 2022, 6:14:24 AM UTC"
+  }
+}

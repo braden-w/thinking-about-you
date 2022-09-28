@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6246.HEIC",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1649112178",
+    "formatted": "Apr 4, 2022, 10:42:58 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1649109842",
+    "formatted": "Apr 4, 2022, 10:04:02 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3099,
+    "longitude": -72.9276,
+    "altitude": 15.44,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3099,
+    "longitude": -72.9276,
+    "altitude": 15.44,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/vW499nZWLd51c-Fj9wpOxGh5CzR5C4AMfqOW4jQOJ7v8VGI20V8Arhe1gp0fSufF96Mg5zUsXpUtShCyTcGSjw5ltQk1tgekTArdfNuA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664372325",
+    "formatted": "Sep 28, 2022, 1:38:45 PM UTC"
+  }
+}

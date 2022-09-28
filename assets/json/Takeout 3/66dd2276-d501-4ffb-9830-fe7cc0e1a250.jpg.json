@@ -1,0 +1,37 @@
+{
+  "title": "66dd2276-d501-4ffb-9830-fe7cc0e1a250.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1660351319",
+    "formatted": "Aug 13, 2022, 12:41:59 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1660303340",
+    "formatted": "Aug 12, 2022, 11:22:20 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/cc5Zhmm9wbfIUycBraWZoVImGUuwEVRPqG12rq65TTwVNwvoOy4yBfnCv7Ce7S1FRjrq5qj-pq8qPSFEXppgxvQQVLM4l6sVO_ckDsU8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723042",
+    "formatted": "Sep 21, 2022, 1:17:22 AM UTC"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_8602.HEIC",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1646622226",
+    "formatted": "Mar 7, 2022, 3:03:46 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646582808",
+    "formatted": "Mar 6, 2022, 4:06:48 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/O9_U1OaKeZ2hbtc6KRP2MRUdeglaTK5Bk-Ffdq7aw3CQg6Thy4538lDiv_pOzbeh7PFFa-W7FDzKafM87NQ825GI7aNqVPWZoqDyp0vQ",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1655592423",
+    "formatted": "Jun 18, 2022, 10:47:03 PM UTC"
+  }
+}

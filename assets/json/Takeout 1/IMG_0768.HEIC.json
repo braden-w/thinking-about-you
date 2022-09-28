@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0768.HEIC",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1649723126",
+    "formatted": "Apr 12, 2022, 12:25:26 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1649084832",
+    "formatted": "Apr 4, 2022, 3:07:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/UyLpZapztM2o_ER8-Mdt6pNG9XnXx2LKV7lMeAKr7GBPnpWsInxmPB4rRGmm8MsAPKhIPZPOotAPlBQXgKX1YFLOh2jAMhRkfeZKsb2y",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664374582",
+    "formatted": "Sep 28, 2022, 2:16:22 PM UTC"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "IMG_4863.HEIC",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1643486071",
+    "formatted": "Jan 29, 2022, 7:54:31 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643484266",
+    "formatted": "Jan 29, 2022, 7:24:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3164,
+    "longitude": -72.9225,
+    "altitude": 15.52,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3164,
+    "longitude": -72.9225,
+    "altitude": 15.52,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/owc4Od93AaVEzY9g-qYNZfcv0Sl4fTsG3u4T4L519VuJVHkLOqQSRtIClUsAsqk9FblXo_cWWH8f-HeH4Cq2IeIKc5wVFhqUdTsY9vNx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664365223",
+    "formatted": "Sep 28, 2022, 11:40:23 AM UTC"
+  }
+}

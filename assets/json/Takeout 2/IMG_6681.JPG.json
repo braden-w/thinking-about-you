@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6681.JPG",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1650922360",
+    "formatted": "Apr 25, 2022, 9:32:40 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650921514",
+    "formatted": "Apr 25, 2022, 9:18:34 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/9tjHEwdnUWJR3b44RAiRV-J9yW9JcFVwYef2HTlsOv_2r75sqto_yYielDB1LY_Q0jxOTUkMUOkNRtxGZXF45Bdnt2RAFoOaT1JJC78A",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1652112004",
+    "formatted": "May 9, 2022, 4:00:04 PM UTC"
+  }
+}

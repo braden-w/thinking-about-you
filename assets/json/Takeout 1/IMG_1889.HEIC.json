@@ -1,0 +1,39 @@
+{
+  "title": "IMG_1889.HEIC",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1644115915",
+    "formatted": "Feb 6, 2022, 2:51:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1644109788",
+    "formatted": "Feb 6, 2022, 1:09:48 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/keujnXDrAvSSazb9wf890rdjf61LknFcd9CChGEuU8VWyhSqJ0qlxW9aNUwSNtnVTRuzIA8kGlSvjXKfURZILYEflm9JXK6tMgAfnLQS",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1660724133",
+    "formatted": "Aug 17, 2022, 8:15:33 AM UTC"
+  }
+}

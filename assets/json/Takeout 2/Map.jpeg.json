@@ -1,0 +1,37 @@
+{
+  "title": "Map.jpeg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1654391208",
+    "formatted": "Jun 5, 2022, 1:06:48 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654391147",
+    "formatted": "Jun 5, 2022, 1:05:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/jd3MUq2jTk9TjmmTLOruS1UDnyAsphwREe604deNgILk2fvEG8edYY0IFs6kaaSCYRi53ge_wXdv8tJu8NU32wzgRjBG9yJoNSCoW3wf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1654754988",
+    "formatted": "Jun 9, 2022, 6:09:48 AM UTC"
+  }
+}

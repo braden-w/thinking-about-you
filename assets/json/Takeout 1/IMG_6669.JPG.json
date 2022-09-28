@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6669.JPG",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1650915307",
+    "formatted": "Apr 25, 2022, 7:35:07 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650909989",
+    "formatted": "Apr 25, 2022, 6:06:29 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/kBNC8OD_zQ4RBSX-jYDiYeE5QE2VTs2nht6Ql20lms3adKM3w0I_2lxkj4_87fBpboMMGXvdaEfXdnqia_KSB2AoNTnh3ZID8_CQAC4Q",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662131569",
+    "formatted": "Sep 2, 2022, 3:12:49 PM UTC"
+  }
+}

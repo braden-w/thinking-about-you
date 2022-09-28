@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4857.HEIC",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1643486181",
+    "formatted": "Jan 29, 2022, 7:56:21 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643484247",
+    "formatted": "Jan 29, 2022, 7:24:07 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3164,
+    "longitude": -72.9225,
+    "altitude": 15.36,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3164,
+    "longitude": -72.9225,
+    "altitude": 15.36,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/IfNCHk2eQ_R7eCbFwsNRWorRcXKXMTPGlZXBaTjbPgiGTmfZXzC3NI4XTsWfS22BEyYvBNVklRSgNaS5p2Wz4XIGLd7I26LRRft5oIax",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664362517",
+    "formatted": "Sep 28, 2022, 10:55:17 AM UTC"
+  }
+}

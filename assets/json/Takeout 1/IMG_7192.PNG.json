@@ -1,0 +1,37 @@
+{
+  "title": "IMG_7192.PNG",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1644872499",
+    "formatted": "Feb 14, 2022, 9:01:39 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1644829204",
+    "formatted": "Feb 14, 2022, 9:00:04 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dm_9DnZUiv0VsXL9HToujMuoUWh-2kZzxhNW4xhKOUr35JsBpCvIe7GyIJEUTrzpPCMsp3ItZxN4geNAip1CT1OzzjNmBhxi3jiR5kJy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188848",
+    "formatted": "Mar 25, 2022, 6:14:08 AM UTC"
+  }
+}

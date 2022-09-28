@@ -1,0 +1,40 @@
+{
+  "title": "IMG_4906.JPG",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1644138035",
+    "formatted": "Feb 6, 2022, 9:00:35 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1644137223",
+    "formatted": "Feb 6, 2022, 8:47:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/Q23HPs0KgTcXdsi-ikFTu7f3PvoujLSoZrzZ9fzyqgTTBZdcKvhgIzs9Y8JmSz83cOaG8HGMK4HqmBdHguh27Q-nDKkr9wX7whC_AFp_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723087",
+    "formatted": "Sep 21, 2022, 1:18:07 AM UTC"
+  }
+}

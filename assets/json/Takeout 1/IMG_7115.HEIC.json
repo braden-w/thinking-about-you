@@ -1,0 +1,37 @@
+{
+  "title": "IMG_7115.HEIC",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1654327404",
+    "formatted": "Jun 4, 2022, 7:23:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654313201",
+    "formatted": "Jun 4, 2022, 3:26:41 AM UTC"
+  },
+  "geoData": {
+    "latitude": 34.1387,
+    "longitude": -118.0452,
+    "altitude": 150.35,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 34.1387,
+    "longitude": -118.0452,
+    "altitude": 150.35,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/0vG9Ke01UO8wmcIv9SwyiZRk19mGGO9CAeodjZtFf-vUAbs_2fmJQNAemX19N7tTGetRvcQDjrHtnkmhIJtRpBp7LnkiErmFhJy9H4ja",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664375748",
+    "formatted": "Sep 28, 2022, 2:35:48 PM UTC"
+  }
+}

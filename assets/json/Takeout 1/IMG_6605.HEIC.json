@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6605.HEIC",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1650337055",
+    "formatted": "Apr 19, 2022, 2:57:35 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650336681",
+    "formatted": "Apr 19, 2022, 2:51:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 41.313191700000004,
+    "longitude": -72.92518609999999,
+    "altitude": 15.924741744284505,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.313191700000004,
+    "longitude": -72.92518609999999,
+    "altitude": 15.924741744284505,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/shQmhwpOGbyjMHtMJa5Fm4qWv8pvAcxvLuBH8aXp_nMsqF7Ay0pBEROm8rHL68bAuQOtfrg0rOxpGPLcz-dAlUrcvkQwsSByK-C1d1Ax",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1652112009",
+    "formatted": "May 9, 2022, 4:00:09 PM UTC"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "4BD8A2FE-6CE3-480F-B78E-08CBAD7BC305.jpeg",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1645311850",
+    "formatted": "Feb 19, 2022, 11:04:10 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645301134",
+    "formatted": "Feb 19, 2022, 8:05:34 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }, {
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/OXsFoZRh6if9O7SFFUWD9Uk9pu6Y-s4sDI-_YgY8ioQfKFYa6DXTJQunxDHCWU64ok3UoX66X8oMFHQYiYntTxVFGzKJ-a-CwyVsR0Rw",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662254228",
+    "formatted": "Sep 4, 2022, 1:17:08 AM UTC"
+  }
+}

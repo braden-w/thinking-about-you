@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4793.HEIC",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1642555540",
+    "formatted": "Jan 19, 2022, 1:25:40 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1642545791",
+    "formatted": "Jan 18, 2022, 10:43:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.308363899999996,
+    "longitude": -72.92908609999999,
+    "altitude": 29.068321249302844,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.308363899999996,
+    "longitude": -72.92908609999999,
+    "altitude": 29.068321249302844,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/P_CvJtxW0Ckbnxu04-3dDzZfRtISoekYBsZ03PjGrRsNeaL-5VAxG3FKeP32XruEMFeakitNsN1CFWFONQcXnW_Z_MnEfF5zZBp7Hi3c",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723034",
+    "formatted": "Sep 21, 2022, 1:17:14 AM UTC"
+  }
+}

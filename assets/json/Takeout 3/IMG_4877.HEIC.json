@@ -1,0 +1,40 @@
+{
+  "title": "IMG_4877.HEIC",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1643489913",
+    "formatted": "Jan 29, 2022, 8:58:33 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643489111",
+    "formatted": "Jan 29, 2022, 8:45:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3101,
+    "longitude": -72.9267,
+    "altitude": 13.37,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3101,
+    "longitude": -72.9267,
+    "altitude": 13.37,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }],
+  "url": "https://lh3.googleusercontent.com/qcJfDlnrNFd5eyqQrS2ZdO5V2qHRur5rLLezSwUqiCxhJcJmnl-JtmxspBKQzvBOXtq5OvtFhBHt9ZXofAFgtz3UFbwRoVNlH4E-_M-h",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664366287",
+    "formatted": "Sep 28, 2022, 11:58:07 AM UTC"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "DSC_9382.jpeg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1651161333",
+    "formatted": "Apr 28, 2022, 3:55:33 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650680967",
+    "formatted": "Apr 23, 2022, 2:29:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Carrie Luk"
+  }, {
+    "name": "Braden W"
+  }],
+  "favorited": true,
+  "url": "https://lh3.googleusercontent.com/Z7vjJSxfJWhGijT9kcdXPLm_FGo2yxolUExyAcBMB7LrvtCzVCz28na3SFVUryjO2WtudwV3BnNPwaf42NO5CLuR23XRyUIkS1SnYmKl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1662955442",
+    "formatted": "Sep 12, 2022, 4:04:02 AM UTC"
+  }
+}

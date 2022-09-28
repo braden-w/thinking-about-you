@@ -1,0 +1,37 @@
+{
+  "title": "IMG_4689.PNG",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1641438101",
+    "formatted": "Jan 6, 2022, 3:01:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641434312",
+    "formatted": "Jan 6, 2022, 1:58:32 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/hTF8xcXJANTZ05t7Hvb8ywEqRg69eSI5SMy2--q6bS_tDpHixZhHls2sCG1-91bcuTKNel4lMR62YWgRfULgTQ4HtPLJ3YV9ZhvD6vyj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188846",
+    "formatted": "Mar 25, 2022, 6:14:06 AM UTC"
+  }
+}

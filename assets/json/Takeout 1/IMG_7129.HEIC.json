@@ -1,0 +1,42 @@
+{
+  "title": "IMG_7129.HEIC",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1654397773",
+    "formatted": "Jun 5, 2022, 2:56:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654397481",
+    "formatted": "Jun 5, 2022, 2:51:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 34.14730000000001,
+    "longitude": -118.04469999999999,
+    "altitude": 172.98,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 34.14730000000001,
+    "longitude": -118.04469999999999,
+    "altitude": 172.98,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Bert Wong"
+  }, {
+    "name": "Bryce Wong"
+  }],
+  "url": "https://lh3.googleusercontent.com/rRq0N4lnvr7JAEEN6JrQ5aRrsJOVHuGYkjIrzF_Pb1fRJxDhFo8cjH1Y5-8qLooGAhEddqOxz96qcXtWs8OSf-BXThCYA9XVGXMG3NSs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1664375799",
+    "formatted": "Sep 28, 2022, 2:36:39 PM UTC"
+  }
+}

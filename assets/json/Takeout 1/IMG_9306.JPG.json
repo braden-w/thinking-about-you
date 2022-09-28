@@ -1,0 +1,37 @@
+{
+  "title": "IMG_9306.JPG",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1660355238",
+    "formatted": "Aug 13, 2022, 1:47:18 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1660304473",
+    "formatted": "Aug 12, 2022, 11:41:13 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/fOHSzwwa11zx9xkrEB1sbKQ92_KwhzfTHSwQZq6ODMX7jMGFBiTk3fplMPucI66VX6qF4_LCVAtzcmKQ48pQvjrvuFqOQ9XLA2CVIcm_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1661089115",
+    "formatted": "Aug 21, 2022, 1:38:35 PM UTC"
+  }
+}

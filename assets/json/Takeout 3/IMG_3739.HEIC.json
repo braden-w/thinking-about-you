@@ -1,0 +1,41 @@
+{
+  "title": "IMG_3739.HEIC",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1642536879",
+    "formatted": "Jan 18, 2022, 8:14:39 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641935984",
+    "formatted": "Jan 11, 2022, 9:19:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }, {
+    "name": "Carrie Luk"
+  }],
+  "url": "https://lh3.googleusercontent.com/obs5WmGvjEfufYkCIClFOPJeBWBpMrvYAdDBmEay7i4NBxo1OIF-EorKNB8sghzodf2-le3wVwJTYQkRH2YSHZF8J7c8n5KBzFclgLHe",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188863",
+    "formatted": "Mar 25, 2022, 6:14:23 AM UTC"
+  }
+}

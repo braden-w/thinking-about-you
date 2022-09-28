@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1971.HEIC",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1645384257",
+    "formatted": "Feb 20, 2022, 7:10:57 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645250335",
+    "formatted": "Feb 19, 2022, 5:58:55 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/YFJ3ZDDG0E96OYHpIm0-m_gJsOIWIglyaQ0CyXrAT9UqjKfE4Af5VK0v2JlfsJsEQL2MJ76d_Ai4dM_x9Td2YUYov1qCOnJo9B3UYngf",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648339877",
+    "formatted": "Mar 27, 2022, 12:11:17 AM UTC"
+  }
+}

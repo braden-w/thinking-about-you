@@ -1,0 +1,40 @@
+{
+  "title": "IMG_4840.HEIC",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1643480547",
+    "formatted": "Jan 29, 2022, 6:22:27 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643480231",
+    "formatted": "Jan 29, 2022, 6:17:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.3106167,
+    "longitude": -72.9273444,
+    "altitude": 10.27408144161011,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.3106167,
+    "longitude": -72.9273444,
+    "altitude": 10.27408144161011,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/nfGR1s-dUBwQBBSF5yQi6sFipgK7M1U2x39J5TBwNmoL7WeIRac-NrY3xS7KJ84Y-nsoPbOCpHy5VWFqahwYUOi9gBhELbUT6SorGRgZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1663723112",
+    "formatted": "Sep 21, 2022, 1:18:32 AM UTC"
+  }
+}

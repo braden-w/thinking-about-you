@@ -1,0 +1,39 @@
+{
+  "title": "IMG_6863.HEIC",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1650210905",
+    "formatted": "Apr 17, 2022, 3:55:05 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650082101",
+    "formatted": "Apr 16, 2022, 4:08:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Braden W"
+  }],
+  "url": "https://lh3.googleusercontent.com/oilZO7kOq-h4WJNHISfJxZwjubNcDzM6fQzA69fKrpigBB6DhNrX4hBUSrKJWNp8hXoFEzD1Iev0UtjXG1usX36ycuD22q_eOUJfu7Zz",
+  "googlePhotosOrigin": {
+    "fromSharedAlbum": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1659451569",
+    "formatted": "Aug 2, 2022, 2:46:09 PM UTC"
+  }
+}

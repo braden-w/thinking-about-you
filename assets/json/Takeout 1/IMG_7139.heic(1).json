@@ -1,0 +1,37 @@
+{
+  "title": "IMG_7139.heic",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1644872500",
+    "formatted": "Feb 14, 2022, 9:01:40 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1644786734",
+    "formatted": "Feb 13, 2022, 9:12:14 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/hyFwkTzhyB_h-xjO4eaL2WXKoCtgRUGBTE8Xqb5PX5hvx7Wj9-TOtSq6eAa6I4bLAO_8l3GEpFepADgbmCYc00xQl1PXN1CrvdBxpuZ5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1648188847",
+    "formatted": "Mar 25, 2022, 6:14:07 AM UTC"
+  }
+}
