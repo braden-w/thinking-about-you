@@ -1,8 +1,14 @@
 import streamlit as st
 import numpy as np
 import json
-
 import pandas as pd
+
+"""# Thinking about you
+Hi Carrie! This is Braden :)
+
+It's you're birthday, and I wanted to say hi and let you know that I'm thinking about you.
+
+While I was at London, I made an app that recorded the weather every day. I thought it would be fun to see."""
 
 # Set map_data to the geojson.json data
 with open("geojson.json") as response:
